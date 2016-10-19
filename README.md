@@ -1,4 +1,4 @@
-# EssenceOfJava
+# Essence Of Java
 
 JAVA의 정석(2ㅜnd Edition) 문제풀이 입니다.
 
